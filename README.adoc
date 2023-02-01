@@ -59,7 +59,3 @@ Use the `import.sh` script provided to insert the "small" and the "bigger" datas
 == Contributing
 
 Feel free to make a pull request to add your collection files into the list.
-
-== License
-
-image::http://i.creativecommons.org/p/zero/1.0/88x31.png[http://creativecommons.org/publicdomain/zero/1.0/]
